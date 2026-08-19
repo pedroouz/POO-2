@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Produto>
+    <Nome>Pão</Nome>
+    <Preco>1</Preco>
+  </Produto>
+  <Produto>
+    <Nome>Espeto de frango</Nome>
+    <Preco>10</Preco>
+  </Produto>
+  <Produto>
+    <Nome>Água</Nome>
+    <Preco>2</Preco>
+  </Produto>
+</ArrayOfProduto>
