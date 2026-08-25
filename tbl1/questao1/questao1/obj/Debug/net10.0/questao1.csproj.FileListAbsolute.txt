@@ -1,0 +1,14 @@
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\bin\Debug\net10.0\questao1.exe
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\bin\Debug\net10.0\questao1.deps.json
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\bin\Debug\net10.0\questao1.runtimeconfig.json
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\bin\Debug\net10.0\questao1.dll
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\bin\Debug\net10.0\questao1.pdb
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\obj\Debug\net10.0\questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\obj\Debug\net10.0\questao1.AssemblyInfoInputs.cache
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\obj\Debug\net10.0\questao1.AssemblyInfo.cs
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\obj\Debug\net10.0\questao1.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\obj\Debug\net10.0\questao1.dll
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\obj\Debug\net10.0\refint\questao1.dll
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\obj\Debug\net10.0\questao1.pdb
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\obj\Debug\net10.0\questao1.genruntimeconfig.cache
+C:\Users\alunolab\Desktop\Pedro\POO\tbl1\questao1\questao1\obj\Debug\net10.0\ref\questao1.dll
