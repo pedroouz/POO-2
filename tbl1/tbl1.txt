@@ -1,0 +1,45 @@
+Questão 1
+
+1. O problema apresentado é sobre uma empresa que precisa de um sistema simples para registrar seus pedidos para agilizar suas tarefas. O objetivo do sistema é melhorar o dia a dia da empresa pois é bem provável que a empresa registra tudo manualmente.
+
+2. O sistema deve permitir informar os clientes cadastrados, adicionar produtos ao pedido, calcular o valor total e informar a forma de pagamento.
+
+3. Para a funcionalidade do sistema, sera utilizado classes (Pedidos e Produtos);  Cada produto terá nome e valor. Cada pedido terá o cliente autor do pedido e os produtos adicionados e o valor total; O sistema funcionara em loop apos o usuario adicionar o nome do cliente, podendo o usuario adicionar quantos produtos quiser. Apos isso sera informado a forma de pagamento e entao o sistema mostra o pedido todo com o nome e valor calculado, além dos pedidos listados e seu valor.
+
+5. Teste 1:
+nome do cliente Ronaldo, produtos: (2 Batatas 10 reais , 3 leites 5 reais e 5 aguas 2 reais) resultado esperado: 45 reais e forma de pagamento pix.
+resultado: 
+
+Cliente: Ronaldo
+Itens:
+2 Batata (R$ 10,00) = R$ 20,00
+3 Leite (R$ 5,00) = R$ 15,00
+5 Agua (R$ 2,00) = R$ 10,00
+Valor Total: R$ 45,00
+Forma de Pagamento: Pix
+
+Teste 2:
+nome do cliente Felipe, produtos: ( 1 Alecrim 1 real , 3 amoras 5 reais, 5 saguados 10 reais e 5 aguas 2 reais) resultado esperado: 76 reais, forma de pagamento: Dinheiro
+
+resultado:
+
+Cliente: Felipe
+Itens:
+1 Alecrim (R$ 1,00) = R$ 1,00
+3 Amora (R$ 5,00) = R$ 15,00
+5 Saguado (R$ 10,00) = R$ 50,00
+5 Agua (R$ 2,00) = R$ 10,00
+Valor Total: R$ 76,00
+Forma de Pagamento: Dinheiro
+
+
+Questao 2:
+
+1. no primeiro eu criei so a classe carrinho com as funcoes de add e ver alem de criar a classe produto. Testei no Main e deu certo
+2. no segundo eu adicionei o remover e definir forma de pagamento e testei tbm no terminal.
+3. nao lembro kk...
+4. incrementei a funcao desconto se o valor total for maior que 100 
+
+
+
+
