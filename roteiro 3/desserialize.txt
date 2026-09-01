@@ -1,0 +1,16 @@
+using Newtonsoft.Json;
+using System;
+class Program
+{
+static void Main()
+{
+string json = @"{
+'Nome': 'Carlos',
+'Idade': 28,
+'Cidade': 'Rio de Janeiro'
+}";
+Pessoa pessoa = JsonConvert.DeserializeObject<Pessoa>(json);
+Console.WriteLine($"Nome: {pessoa.Nome}, Idade: {pessoa.Idade}, Cidade:
+{pessoa.Cidade}");
+}
+}
