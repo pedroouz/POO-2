@@ -1,0 +1,17 @@
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\bin\Debug\net10.0\ex002.exe
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\bin\Debug\net10.0\ex002.deps.json
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\bin\Debug\net10.0\ex002.runtimeconfig.json
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\bin\Debug\net10.0\ex002.dll
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\bin\Debug\net10.0\ex002.pdb
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\obj\Debug\net10.0\ex002.csproj.AssemblyReference.cache
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\obj\Debug\net10.0\ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\obj\Debug\net10.0\ex002.AssemblyInfoInputs.cache
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\obj\Debug\net10.0\ex002.AssemblyInfo.cs
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\obj\Debug\net10.0\ex002.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\obj\Debug\net10.0\ex002.csproj.Up2Date
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\obj\Debug\net10.0\ex002.dll
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\obj\Debug\net10.0\refint\ex002.dll
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\obj\Debug\net10.0\ex002.pdb
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\obj\Debug\net10.0\ex002.genruntimeconfig.cache
+C:\Users\alunolab\Desktop\Pedro\POO\roteiro 3\ex002\ex002\obj\Debug\net10.0\ref\ex002.dll
