@@ -81,8 +81,6 @@ class Program
 
         File.WriteAllText("produtos.json", json);
 
-        Console.WriteLine("JSON gravado com sucesso!\n");
-
         Console.WriteLine(json);
 
         string jsonArquivo = File.ReadAllText("produtos.json");
@@ -90,8 +88,7 @@ class Program
         List<Produto> produtosLidos =
             JsonConvert.DeserializeObject<List<Produto>>(jsonArquivo);
 
-        Console.WriteLine("PRODUTOS DESSERIALIZADOS");
-
+        Console.WriteLine("PRODUTOS DESSERIALIZADOS:");
 
         foreach (Produto produto in produtosLidos)
         {
@@ -100,12 +97,9 @@ class Program
             Console.WriteLine($"Preço: R$ {produto.Preco:F2}");
             Console.WriteLine($"Estoque: {produto.Estoque}");
             Console.WriteLine($"Fornecedor: {produto.Fornecedor}");
-            Console.WriteLine("----------------------------");
         }
 
-        Console.WriteLine("\n============================");
         Console.WriteLine("TESTE DE VALIDAÇÃO");
-        Console.WriteLine("============================");
 
         string jsonInvalido = @"{
             ""Id"": 10,
