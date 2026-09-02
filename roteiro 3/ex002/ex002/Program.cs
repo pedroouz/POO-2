@@ -1,5 +1,5 @@
 ﻿using Newtonsoft.Json;
-
+// Precisa do arquivo aluno.json na pasta bin/net.10
 class Program
 {
     static void Main()
