@@ -1,7 +1,7 @@
 ﻿
 using Newtonsoft.Json;
 
-class Program
+class ex003
 {
     static void Main()
     {
