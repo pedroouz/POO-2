@@ -1,0 +1,53 @@
+
+public class IdadeInvalidaException : Exception
+{
+    public IdadeInvalidaException(string mensagem)
+        : base(mensagem)
+    {
+    }
+}
+
+public class Pessoa
+{
+    private int idade;
+
+    public int Idade
+    {
+        get { return idade; }
+        set
+        {
+            if (value < 0 || value > 120)
+            {
+                throw new IdadeInvalidaException(
+                    "A idade deve estar entre 0 e 120 anos."
+                );
+            }
+
+            idade = value;
+        }
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        try
+        {
+            Pessoa pessoa = new Pessoa();
+
+            Console.Write("Digite a idade: ");
+            pessoa.Idade = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Pessoa cadastrada com sucesso!");
+        }
+        catch (IdadeInvalidaException ex)
+        {
+            Console.WriteLine("Erro: " + ex.Message);
+        }
+        catch (FormatException)
+        {
+            Console.WriteLine("Digite uma idade válida.");
+        }
+    }
+}

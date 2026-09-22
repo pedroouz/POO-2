@@ -1,0 +1,46 @@
+using System;
+using System.IO;
+
+public class ArquivoConfigException : Exception
+{
+    public ArquivoConfigException(string mensagem)
+        : base(mensagem)
+    {
+    }
+}
+
+public class Configuracao
+{
+    public string CarregarArquivo(string caminho)
+    {
+        if (!File.Exists(caminho))
+        {
+            throw new ArquivoConfigException(
+                "Arquivo de configuração não encontrado: " + caminho
+            );
+        }
+
+        return File.ReadAllText(caminho);
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        try
+        {
+            Configuracao config = new Configuracao();
+
+            string caminho = "config.txt";
+            string conteudo = config.CarregarArquivo(caminho);
+
+            Console.WriteLine("Arquivo carregado com sucesso!");
+            Console.WriteLine(conteudo);
+        }
+        catch (ArquivoConfigException ex)
+        {
+            Console.WriteLine("Erro: " + ex.Message);
+        }
+    }
+}
